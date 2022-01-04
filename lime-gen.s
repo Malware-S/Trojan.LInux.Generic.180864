@@ -1,4 +1,3 @@
-; This file passed through VX Heavens (http://vx.org.ua)
 ; ***************************************************************
 ;  To compile [LiME] under Linux with NASM... Follow as:
 ;  nasm -f elf lime-gen.s
